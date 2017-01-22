@@ -1,0 +1,6 @@
+autoenv==1.0.0
+Django==1.10.5
+dj-database-url==0.4.2
+flake8==3.2.1
+gunicorn==19.6.0
+psycopg2==2.6.2
